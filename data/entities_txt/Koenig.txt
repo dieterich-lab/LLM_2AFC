@@ -1,0 +1,85 @@
+Definitiver Arztbrief
+ 
+[**NAME_PATIENT**] * [**DATE_BIRTH**]
+
+Arztbrief
+ 
+
+[**DATE**]
+Diagnosen
+
+9. Zyklus einer Chemotherapie mit Carboplatin bei Z. n. Amputation Kleinfinger re wegen ulzeriertem MM, Level V, Tumordicke größer 4mm [**DATE**]
+Multiple kutan-subkutane Metastasen / thoracal und axillär re
+LK-Metastasen / Axilla re (ED [**DATE**])
+Fil. pulm. (ED [**DATE**])
+Benigne essentielle Hypertonie
+AV-Block 3. grades
+Totalexzision einer subkutanen Melanommetastase (Histologie: Entfernung in sano) / Ellenbeuge re
+Totalexzision einer subkutanen Melanommetastase (Histologie: Entfernung in sano) / Handrücken rechts proximal
+
+St. p. sen. node Biopsie / Axilla re (Lymphknotenmeta eines MM) [**DATE**]
+St. p. axilläre LK Disektion re (16 Metastasenfreie LK) [**DATE**]
+St. p. 1. Chemotherapie mit DTIC [**DATE**] bis [**DATE**] (Abbruch wegen Anstieg der Leberparameter und Eosinophilie)
+St. p. Radiatio re axillär ([**DATE**] - [**DATE**], Abbruch wg. Erysipel)
+St. p. Karbunkel / occipital ([**DATE**]) (C43.6)
+Organisches Psychosyndrom in 1. L. im Sinne einer Demenz
+ 
+Therapieempfehlung
+
+Risperdal 1 mg 0/0/1
+Navoban Kps. 1x1 bis einschließlich [**DATE**]
+ 
+Weiteres Vorgehen
+
+Blutbildkontrolle in 1 Woche beim Hausarzt 
+
+Stationäre Wiederaufnahme am [**DATE**], 8.00 Uhr auf Station [**ID**]. Ein Termin in der Gedächtnisambulanz wurde unsererseits für den [**DATE**], 10.00 Uhr organisiert - bitte Lesebrille mitbringen sowie eine Begleitperson.
+
+Zusammenfassung
+
+Die stat. Aufnahme Ihres Pat. erfolgte zum geplanten 9. Zyklus einer Chemotherapie mit Carboplatin. Im extern durchgeführten CT Schädel bis Becken vom [**DATE**] zeigte sich eine suspekte Kleinhirnmetastase rechts. Zusätzlich zeigte sich im Harn eine ausgeprägte Leukozyturie, weshalb vorerst von einer Chemotherapie Abstand genommen wurde und ein MR des Schädels sowie eine Antibiose mit Ciproxin durchgefürhrt wurde. Im MR Schädel konnte eine cerebrale Metastasierung ausgeschlossen werden.
+Am [**DATE**] erhielt der Pat. die Chemotherapie mit Carboplatin (200mg) unter entsprechender antiemetischer Begleitmedikation. Die Chemotherapie wurde vom Patienten gut vertragen.
+Da Herr [**NAME_PATIENT**] zunehmend örtlich und situativ desorientiert war, wurde mehrmals ein neurologisches Konsil sowie ein psychiatrisches Konsil einberufen (Befunde siehe hinten). Eine Therapie mit Risperdal wurde eingeleitet und eine Kontrolle in der Gedächtnisambulanz terminisiert.
+Der Patient konnte am [**DATE**] nach einer abschließenden Blutbildkontrolle in ordentl. AZ nach Hause entlassen werden.
+
+ Relevante Befunde
+
+Labor : [**DATE**]:
+Ery 3,19, Hämatokrit 31,8, MCH 33,4, Harnstoff 41, GFR 42,18, AST 30, ALT 57, CK 163, CKMB 25, LDH 294.
+
+[**DATE**]:
+Harn: Leuko 500, Nitrit neg., Sediment: Ery 44, Leuko 1757, PSE 7,
+Bakterien mäßiggr.
+
+[**DATE**]:
+Ery 3,57, GFR 44,76, AST 41, ALT 56, Glukose 140.
+
+[**DATE**]:
+Leuko 4,28, Ery 3,80.
+
+EKG [**DATE**]:
+SR 100/min, Kammerfrequenz 45/min, AV-Block III, LT, inkompletter RSB
+
+Bildgebende Untersuchungen : MR des Gehirnschädels v. [**DATE**]: Drei maximal knapp unter 1 cm große Suszeptibilitätsartefakte: einerseits in der rechten Kleinhirnhemisphäre sowie supratentoriell parietal rechts und eine ganz kleine parietal links, in erster Linie Cavernomen entsprechend. Kein pathologisches Kontrastmittelenhancement im Sinne von metastasenverdächtigen Veränderungen.
+Deutliche fleckig konfluierende Marklagerhyperintensitäten in beiden Großhirnhemisphären, microangiopathischer Genese. Deutliche Ausweitung der inneren und äußeren Liquorräume, akzentuiert um den Temporalpol rechts. Kein Hinweis auf Liquorabflussstörung.
+Kein Nachweis rezent ischämischer Läsionen.
+
+Nebenbefund:
+Schleimhautschwellung mit Sekretspiegel im Sinus maxillaris dext. 
+Konsiliarbefunde : Psychiatrischer Konsiliarbefund v. [**DATE**]: Diagnose: Verd. a. beginnende organische Halluzinose. Therapie: neurolog. Konsil, bei Persistenz der visuell optischen Halluzination. Therapieversuch mit Risperdal.
+
+Neurologisches Konsil v. [**DATE**]:
+St.p. Halluzinatorischer Phase.
+Organisches Psychosyndrom in 1. L. im Sinne einer Demenz. Therapie weiter wie eingeleitet. Kontrolle in der Demenzambulanz der Neurolog. Klinik. Bei Unruhezuständen wie von der Psychiatrie empfohlen Risperdal ½-1 abends.
+Neurologisches Konsil v. [**DATE**]:
+Beurteilung: Dementielles Syndrom, cerebrale Mikroangiopathie. Procedere: Lt. MR keine ZNS-Metastasen, Carboplatin macht periphere Neuropathie u. gelegentlich Halluziationen u. Angstzustände als mögliche Nebenwirkungen des Nervensystems.
+
+Medikation bei Entlassung:
+Xalatan Augentropfen 1xtägl.
+Lasix 40mg 1-0-0
+Spironolakton 25mg 0-1-0 
+
+Mit kolleg. Grüßen
+
+[**NAME_TITLE**] [**NAME_DOCTOR**]
+

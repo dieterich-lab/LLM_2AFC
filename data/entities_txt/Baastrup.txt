@@ -1,0 +1,46 @@
+[**LOCATION_HOSPITAL**]
+Urologische Abteilung
+CHEFARZT: [**NAME_TITLE**] [**NAME_DOCTOR**]
+
+Herrn
+[**NAME_DOCTOR**]
+Urologe
+[**LOCATION_STREET**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**]
+ 
+
+[**LOCATION_CITY**], [**DATE**]
+[**LOCATION_STREET**] 
+Telefon [**CONTACT_PHONE**]
+
+
+Betr.: [**NAME_PATIENT**], geb. [**DATE_BIRTH**], [**LOCATION_STREET**], [**LOCATION_ZIP**] [**LOCATION_CITY**] 
+
+
+Sehr geehrte Herr Kollege [**NAME_DOCTOR**]!
+
+Hr. [**NAME_PATIENT**] war vom [**DATE**] - [**DATE**] bei uns in stationärer Behandlung.
+
+Diagnosen: Narbige Blasanhalsstenose. nach Prostata-Adenom-Enukleatio [**DATE**].
+Bekannte Blindheit nach Maculadeg. bds.
+Herzinsuffizienz
+
+Kleines Prostata-Ca Stadium pT1a,· G1.
+
+1 Tag vor der stationären Aufnahme war eine Sachse­Spaltung der narbigen Stenose durchgeführt worden. Der Katheter war herausgefallen. Nach nochmaliger vorübergehender Kathetervers6rgung betrug der Resturin·aber immer noch 150 ml., so daß wir uns zur·Elektro-Resektion entschlossen haben.
+
+Die präoperativen Blutwerte:  PSA 0,7 ng/ml, Kreatinin
+1,5, Harnstoff 51 mg%, Elektrolyte ausgeglichen. Gerinnungsverhalten unauffällig.
+
+Therapie und Verlauf:
+
+Resektion des Blasenhalses am [**DATE**]. Histologisch zeigte sich außer Narbengewebe ein winziges, gut differenziertes Carcinom. Diesen Befund haben wir dem Patienten vorenthalten, da eine Therapie aufgrund des fortgeschrittenen Alters sicher nicht erforderlich ist.
+
+Nach Katheter-Entfernung restharnfreie Blasenentleerung. Die Medikation von Adalat und Lanitop sowie Augentropfen 
+wurde hier weitergeführt.
+
+Mit freundlichen Grüßen bin ich
+Ihr
+
+[**NAME_TITLE**] [**NAME_DOCTOR**]
+Chefarzt

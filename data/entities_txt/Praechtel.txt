@@ -1,0 +1,33 @@
+[**NAME_PATIENT**] geb. [**DATE_BIRTH**],
+
+Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,
+wir berichten Ihnen nachfolgend über o.g. Patienten, der sich am [**DATE**] in unserer stationären 
+Behandlung befand.
+
+Diagnosen: 
+1. St.p. laparoskopischer Cholezystektomie [**DATE**] bei Cholezystolithiasis
+	- Postoperative benigne Choledochusstenose 	  
+ 	- Z.n. endoskopischer Papillotomie und Einlage einer transpapillären Gallengangsendoprothese (11,5 F/12 cm, Typ Tannenbaum) [**DATE**]
+	      Seither regelmäßiger Wechsel alle 3 Monate, zuletzt [**DATE**], dabei Einlage einer Endoprothese (Bougierung)
+         Aktuell: Prothesenwechsel 
+2. HP-negative Antrumgastritis [**DATE**]
+3. Z.n. Prostatitis
+4. Mitralinsuffizienz I. Grades				 
+5. Z. n. Muskelfaszikulationen unklarer Genese [**DATE**]
+   - Ausschluss einer funktionell wirksamen Schilddrüsenerkrankung
+   - TSH leicht supprimiert: [**DATE**]
+
+Verlauf: Herr [**NAME_PATIENT**] wurde elektiv zum Drainagewechsel aufgenommen. Dieser wurde ohne 
+Komplikationen unter Antibiotikaschutz bei MINS durchgeführt. Das Labor war bereits 
+freundlicherweise von Ihnen mitgegeben worden. In der ERCP zeigte sich ein guter Dehnungseffekt 
+der benignen Choledochustenose, sodass bei dem nächsten Wechsel ggfs. auf die Einlage der 
+Drainagen verzichtet werden kann. Aktuell wurden erneut 2 Drainagen vom Typ Tannenbaum 
+eingelegt. Bei unkomplizierten Verlauf empfehlen wir eine Wiedervorstellung des P. in ca. 4 Monaten. 
+Wir bitten die med. Therapie mit Ursofalk fortzuführen.
+Bei Rückfragen stehen wir Ihnen jederzeit gerne zur Verfügung. 
+
+Mit freundlichen Grüßen
+
+[**NAME_DOCTOR**] [**NAME_TITLE**]		[**NAME_TITLE**] [**NAME_DOCTOR**]		[**NAME_TITLE**] [**NAME_DOCTOR**]
+Stationsärztin			Oberärztin			Chefarzt
+

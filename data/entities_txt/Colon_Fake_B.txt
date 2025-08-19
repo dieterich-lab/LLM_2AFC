@@ -1,0 +1,59 @@
+Universitätsklinik für Innere Medizin 
+Klinische Abteilung für O N K O L O G I E
+
+Werte Frau Kollegin, werter Herr Kollege, 
+
+wir berichten hier über unsere gemeinsame Patientin, Frau [**NAME_PATIENT**], Fallnummer: [**ID**], geboren am: [**DATE_BIRTH**], die sich vom [**DATE**] bis zum [**DATE**] in unserer stationären Behandlung befand. 
+
+DIAGNOSEN
+
+Rektumkarzinom, ([**DATE**]), lokal weit fortgeschritten, C20
+Tumoranämie, ([**DATE**]), D63.0
+St.p. Port-a-cath Implantation [**DATE**]
+Transfusionspflichtige Anämie
+
+DEKURS DER TUMORERKRANKUNG
+Operation(en) und Histologie(n):
+diagnostische PE ([**DATE**])
+Histo: Adeno-CA
+Stad.: p N+MX G2
+endständige Sigmoideostomie ([**DATE**])
+
+Med.TU Therapie(n):
+pall. PCT m. Folfox ab ([**DATE**]); 1. Zyklus 75%
+
+
+Die stationäre Aufnahme von Frau [**NAME_PATIENT**] erfolgte zur Einleitung der Polychemotherapie nach dem Folfox-Regime.
+Sie berichtet über starke Schmerzen beim Sitzen.
+ 
+Status praesens
+[**AGE**]-j. Patientin in mittelgr. reduziertem AZ und deutlich red. EZ. neurologisch bis auf einen leichten seitengl. Tremor unauffällig, allseits orientiert, kardiorespiratorisch stabil. 
+Caput/Collum: kein Meningismus, HNAP frei, Pupillen rund, mitteleng, isokor, LR direkt und indirekt prompt, Zunge feucht, gerade, Schleimhäute blaß. Cor: HT rein, rhythmisch, normokard. Pulmo: Vesikuläratmen bds., keine Rasselgeräusche. Abdomen: Ileostoma, Bauchdecke weich kein DS, keine Abwehrspannung, DG rege, Nierenlager bds. frei.
+Analregion: Fistelung ca. 12x12cm große Rötung perianal. Extremitäten, Gelenke: aktiv und passiv frei beweglich, periphere Pulse gut tastbar, minimale Beinödeme bds.
+
+
+Durchgeführte Untersuchungen
+Labor bei Aufnahme
+Leuko 11.68, Hb 7.8, Thrombo 370000 Niere unauffällig, CRP 34.5, Eiweiß 5.8,
+Tumormarker: CEA: 24.0, CA19-9: 2.7
+Hb bei Entlassung 10,2
+
+Rö-Thorax: Leicht re. verbreitertes Herz, sonst oB 
+
+Therapie und Verlauf
+Die stat. Aufnahme von Frau [**NAME_PATIENT**] erfolgte zur Einleitung einer palliativen Polychemotherapie nach Folfox-Schema (1. Zyklus) bei lokal weit fortgeschrittenem Rektumkarzinom. Die Patientin erhielt 75%-der Gesamtdosis. Insgesamt erhielt sie Oxaliplatin 97mg über 2 Std, sowie 456mg Calciumfolinat über 2 Std, 400mg 5FU als Bolus und 1736mg 5FU über 58 Stunden. Die Dosisreduktion beruhte in erster Linie auf der lokal weit fortgeschrittene Tumorsituation mit rektovag. Fistelbildung unter laufender antibiotischer Therapie. Bei guter Verträglichkeit ist die Fortführung der Therapie zum 2. Zyklus in normaler Dosierung geplant. Unter ausreichend antiemetischen Begleitmaßnahmen wurde die Therapie gut vertragen, so dass die Patientin in gutem AZ nach Hause entlassen werden kann.
+Es wurden insgesamt 2 Blutkonserven transfundiert.
+
+Empfohlene Therapie
+Furosemid 40mg ½-0-0
+Pantoloc 40mg 1-0-0
+Ferretab 1-0-0
+Reparil Drg. 1/1/2
+Ciprobay 500mg 1-0-1 als Dauertherapie
+Mexalen 500mg 1-0-1
+Lovenox 40mg 2 x tgl.s.c. abends
+bei Übelkeit: Metoclopramid Tr. 20gtt bis 3 x tgl.
+
+Procedere
+Am [**DATE**] um 8 Uhr 15 stationäre Wiederaufnahme an der Onkologie zur Fortführung der Therapie mit Folfox, 2. Zyklus.  
+ 

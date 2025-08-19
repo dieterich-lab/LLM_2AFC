@@ -1,0 +1,56 @@
+Definitiver Arztbrief
+ 
+[**NAME_PATIENT**] * [**DATE_BIRTH**]
+ 
+[**DATE**]
+
+Diagnosen
+ Malignes Melanom Stadium IV (AJCC [**DATE**])
+Lipome
+chronische Hepatitis C
+rterielle Hypertonie
+[**DATE**] Primärtumor: noduläres Melanoms Gesäß links, oberer Quadrant  (TD 3.65mm, Mitosen+)
+[**DATE**] tumorfreier Sentinellymphknoten Leiste links.
+[**DATE**] - [**DATE**] Therapie mit Roferon 3 MioE 3x/Woche
+[**DATE**] Fernmetastasen (2 solitäre Lungenmetastasen bis 2.3cm; multiple Lebermetastasen bis 2 cm)
+[**DATE**] - [**DATE**] 6 Zyklen Carboplatin und Taxol; Response: SD
+[**DATE**], SD [**DATE**]; PD [**DATE**] (Lunge SD, Leber PD 2.9 cm)
+[**DATE**]-[**DATE**] 4 Zyklen Ipilimumab  
+
+
+Aktuell:
+Ipilimumab-assoziierte Colitis (C43.8)
+
+Thorax-Rö.
+Das Herz gering über die Norm verbreitert mit pulmonalvenösen Stauungszeichen. Kleinfleckige Verdichtungen perihilär bds., vereinbar mit einem inzipienten Lungenödem. Randwinkelerguß re. Der li. Laterale Rezessus frei. Pneumonische Infiltrate stauungsbedingt nicht sicher zu differenzieren.  
+
+EKG
+89/min, Linkstyp, QRS 174 ms 
+
+
+
+Weiteres Vorgehen
+ Kontrolle am [**DATE**] um 9:00 Uhr in der Therapieambulanz bei [**NAME_TITLE**]  [**NAME_DOCTOR**] .
+Re-Staging und anschl. weitere Therapieplanung in ca. 2 Monaten geplant.
+
+Zusammenfassung
+Die Aufnahme von Frau [**NAME_PATIENT**] erfolgte aufgrund von massiven Durchfällen seit dem [**DATE**] mit flüssigem Stuhl bis 15x täglich, teilweise mit Bemengung von hellrotem Blut sowie kolikartigen Schmerzen im Unterbauch.
+Bei der Patientin besteht ein Melanom im Stadium IV, diesbezüglich erhielt sie zuletzt am [**DATE**] eine Therapie mit Ipilimumab (4. Zyklus) 3mg/kgKG . Es waren daher die Beschwerden in erster Linie im Sinne einer Ipilimumabassoziierten Colitis zu werten.
+Die Patientin erhielt eine Therapie mit Kortikosteroiden intravenös, beginnend mit Solu Dakortin® 500 mg 1x tägl. über 3 Tage, dann Reduktion auf 150 mg für 3 Tage. Da sich unter dieser Therapie die Stuhlfrequenz normalisierte, konnte ab dem [**DATE**] auf Urbason® peroral umgestellt werden, beginnend mit einer Dosierung von 60 mg 1xtgl. Ab dem [**DATE**] wurde auf 30 mg Urbason 1xtgl reduziert. Da sich auch nach der Umstellung auf die orale Steroidtherapie kein Wiederauftreten der Beschwerden zeigte, konnte die Patientin am [**DATE**] in befr. AZ entlassen werden.
+
+Relevante Befunde
+ 
+Labor : Kumulativbefund beiliegend.
+HLA-DNA-Typisierung:
+HLA-A A*01, A*23
+HLA-B B*44
+
+Dermatologischer Status : Gesamten Integument mehrere melanozytäre auflichtmikroskopisch insuspekte Makulae.
+Gesäß links: 12 cm lange atrophe Narbe.
+Stamm, Oberarm und Oberschenkel bds: Mehrere bis maximal 2 cm im Durchmesser messende prall elastisch subkutane Knoten (anamnestisch Lipome seit 20 Jahren größenstationär).
+Schleimhäute, Venenstatus, periphere Pulse o.B.
+
+Mit freundlichen kollegialen Grüßen
+
+[**NAME_TITLE**] [**NAME_DOCTOR**]
+ 

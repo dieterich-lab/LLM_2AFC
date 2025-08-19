@@ -1,0 +1,33 @@
+Betrifft: [**NAME_PATIENT**], geb.: [**DATE_BIRTH**], wohnhaft [**LOCATION_STREET**] [**LOCATION_ZIP**] [**LOCATION_CITY**]
+
+Diagnose(n): Pankreasschwankarzinom, ED [**DATE**]
+
+Histologie: Mittelgradig differenziertes Adenokarzinom des Pankreasschwanzes, cT4, Nx, MO, G3 (Inoperabilität wegen Einbruch in den Milzhilus)
+
+[**DATE**] bis [**DATE**] Chemotherapie mit Folfirinox
+[**DATE**] - [**DATE**] Protonentherapie: Pankreaskarzinom -
+Dosierung: 5 x 3.00 Gy(RBE)/Wo., Gesamtdosis: 5.00 Gy(RBE)
+
+
+Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege,
+
+wir berichten Ihnen über die radioonkologische Nachsorgeuntersuchung von Herrn [**NAME_PATIENT**], geb. [**DATE**], der sich am [**DATE**] in unserer Protonensprechstunde vorstellte.
+
+Pat.: [**NAME_PATIENT**], Geb.Dat.: [**DATE**], M
+Krankengeschichte: Erlauben wir uns als bekannt vorauszusetzen.
+Durchgeführte Diagnostik: PET/CT Teilkörper Restaging (Schädelbasis bis Becken) vom [**DATE**]:
+
+Zusammenfassende Beurteilung: Im Vergleich zum Vor-PET/CT vom [**DATE**] weiterhin kein Anhalt für einen pathologischen Glukoseuptake im Ober- und Mittelbauch. Allenfalls fOG Aufnahme im Bereich des blood pools an der AMS. Kein Hinweis auf eine Lymphknotenmetastasierung oder Fernmetastasierung bei unverändertem Nachweis kleinerer mesenterialer LK.
+
+Epikrise:
+Herr [**NAME_PATIENT**] ist nun 1 Jahr nach definitiver Protonentherapie eines lokal fortgeschrittenen Pankreasschwanzkarzinoms in einem ausgezeichneten Allgemeinzustand. Subjektiv bestehen keinerlei therapieassoziierte Nebenwirkungen. Bei der bei uns durchgeführten PET/CT-Untersuchung zeigte sich heute eine komplette Remission. Das zuletzt beschriebene Weichteil plus im Bereich der A. mesenterica superior ist nun nicht mehr nachweisbar.
+Im Weiteren empfehlen wir eine engmaschige Kontrolle mittels PET/CT, ein entsprechender Termin wurde in unserem Hause mit dem Patienten vereinbart.
+
+Mit freundlichen, kollegialen Grüßen
+
+[**NAME_TITLE**] [**NAME_DOCTOR**] / Chefarzt und Leiter Strahlenklinik [**ID**]
+
+[**NAME_TITLE**] [**NAME_TITLE**] [**NAME_DOCTOR**] 
+ 
+
+ 

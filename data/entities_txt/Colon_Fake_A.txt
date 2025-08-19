@@ -1,0 +1,60 @@
+
+Arztbrief vom [**DATE**]
+
+Sehr geehrte Kolleginnen und Kollegen, 
+
+wir berichten von Frau [**NAME_PATIENT**], *[**DATE_BIRTH**], stat. Aufenthalt [**DATE**] - [**DATE**]
+
+
+HAUPT / NEBENDIAGNOSEN
+Rektum-CA, (ED [**DATE**]); lokal weit fortgeschritten , C20
+Tumoranämie, (ED [**DATE**]), D63.0
+IDDM, E11.9
+chronische Niereninsuffizienz ieL diab. Nephropathie, N18.8
+arterielle Hypertonie, I10
+Metamizolallergie, Z88.6
+Lasixallergie
+
+Z.n. Implantation Port-a-cath [**DATE**] - Explantation [**DATE**]
+PS-Heilung m. postop. Hämatoserom/rectovag. Fistel ([**DATE**])
+
+DEKURS DER TUMORERKRANKUNG
+Operation(en) und Histologie(n):
+diagnostische PE ([**DATE**])
+Histo: AdenoCA
+Stad.: pN+MXG2 K-RAS wt
+endständige Sigmoideostomie ([**DATE**])
+Rektumamputation, Hysterectomie, Scheidenrekonstruktion, Defektdeckung ([**DATE**]) 
+V.a. Metas der Nieren und Nebenniere rechts
+Histo: Sehr spärliche Reste des AdenoCa vom colorektalen Typ
+Stad.: ypT3cN0(0/14)M0G2R0 Tumorregressionsgr. 3
+Histo: Uterus myomatosus, geringgr. Endometriose
+
+Bestrahlung(en):
+konkom. RTX/CTX m. 5-FU am STZ, 64 GY ([**DATE**]-[**DATE**]); (reg. LK 64 Gy, Primärtumorregion 80 Gy)
+
+Med.TU Therapie(n):
+pseudoneoadj. PCT m. Folfox ([**DATE**]-[**DATE**]); MR nach 6 Zyklen;
++ Panitumumab ([**DATE**]-[**DATE**]) 
+pseudoneoadj. PCT De Gramont + Panitumumab ([**DATE**]-[**DATE**]); PR; add. konk. RCT
+Observanz ab ([**DATE**]-laufend)
+
+Aufgrund der Niereninsuffizienz erhielt die Pat.2000 ml NaCl 0,9 %
+und 4000ml oral um die Diurese zu forcieren.
+Trotzdem konnte aufgrund des erhöhten Krea 
+kein CT mit Kontrast durchgeführt werden.
+Radiologe empfiehlt Verlaufskontr. in 3 Monaten.
+
+THERAPIEEMPFEHLUNG
+NovoRapid® 2 Einh. pro BE
+Brotaphane® 0-0-0-6 Einheiten
+Inegy® 10/20 mg 0-0-1
+Seloken® retard 95 mg 1/2-1/2-1/2
+Gastrozol® 20 mg 1-0-0
+Valsartan 160 mg 1-0-0
+Berodual® DA bei Bed. 1 - 2 Hub
+Seretide® diskus 3x 1Hub
+Indapamid® 1 mg 1-0-1
+Allopurinol 300 mg 1-0-0
+
+ 

@@ -1,0 +1,62 @@
+Hals-Nasen-Ohren-Klinik
+Klinikdirektor: [**NAME_TITLE**] [**NAME_DOCTOR**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**], [**LOCATION_STREET**], Tel.: [**CONTACT_PHONE**], Fax: [**CONTACT_FAX**]
+ 
+ 
+
+Herrn
+[**NAME_TITLE**] [**NAME_PATIENT**] [**LOCATION_STREET**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**]
+ 
+
+
+Zur Vorlage bei Ihrer/Ihrem Ärztin/Arzt
+
+
+
+[**NAME_TITLE**] [**NAME_PATIENT**]
+Geboren am: [**DATE_BIRTH**]
+[**LOCATION_STREET**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**]
+ 
+Allgemeine Ambulanz
+
+Ambulant am [**DATE**]
+Fallnummer:	[**ID**]
+
+Versicherung: [**LOCATION_ORGANIZATION**]
+
+
+Befund
+ 
+angelegt am [**DATE**] gedruckt am [**DATE**]
+ 
+
+Anamnese: Seit 10 Tagen grippaler Infekt ohne Fieber, seit 3 Tagen zunehmende stechende
+Kopfschmerzen und Druckgefühl frontal, begleitend Husten, Niesanfälle, Medikation: seit
+10 Tagen Nasevin NT, Paracetmol bei Bedarf Allergien: Pollen
+
+Rechtes Ohr: kein Tragusdruckschmerz, kein Mastoisklopfschmerz, Gehörgang bland, Tf unauff., Vasalva pos.
+
+linkes Ohr: 
+kein Tragusdruckschmerz, kein Mastoisklopfschmerz, Gehörgang bland, Tf unauff., Vassalva pos.
+
+Nase: leicht SH Rötung 
+
+Nasenrachen: leicht gerötet 
+
+Mundrachen: mäsig gerötet
+
+Kehlkopf: soweit bei Würgereiz einsahbar unauffällig
+
+Sonstiges: Lnn submandibulär, nuchal und pariaurikulär unaufällig
+
+
+Diagnose(n)
+Sinusitis frontalis
+
+Empfohlene  Untersuchung{en)
+Empf. täglich HE u. lnhal. in unserer Ambulanz  sowie Vibramycin 100 heute 2x1, dann  weiter 1x1, Otrivin Tropfen  3xtgl. in die  Nase, Antiphlogistika bei Bedarf. Eine Ko.  wurde  für  morgen  für neuerlich HE u.  Inhalation vereinbart.
+
+
+

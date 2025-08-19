@@ -1,0 +1,9 @@
+{
+    "letter": "[** ENTITY_SLOT **] [**NAME_PATIENT**] *[**DATE_BIRTH**]\nPIZ: [**ID**] \tVorgangs-Nr. [**ID**]\n\n\nSehr geehrte Frau Kollegin [**NAME_PATIENT**], anbei erhalten Sie Ihren Befund.\n\nUntersuchungsindikation:\nLaterale Claviculafraktur rechts nach Reitunfall.\n \n\nErbetene und durchgef\u00fchrte Untersuchung:\nAcromio-Claviculargelenk vom [**DATE**]\n\n\nDigitale Aufnahmetechnik\n\nMethodik:\nAnfertigung von vergleichenden Aufnahmen beider Schultergelenke unter Belastung mit 10 kg.\n\nBefund:\nDehiszenz im Frakturspalt bei lateraler Claviculafraktur um Schaftbreite. Eine begleitende ligament\u00e4re Verletzung ist bei vermehrter Dehiszenz Clavicula/ Coracoid von 7 mm linksseitig und von 21 mm rechtsseitig anzunehmen.\n\nBildverbleib: Digitales Archiv\n \nQualit\u00e4tssicherungskonzept:\nIm Rahmen der Qualit\u00e4tssicherung wurde diese Untersuchung von zwei Fach\u00e4rztInnen f\u00fcr Radiologie beurteilt.\n\nMit freundlichen koll. Gr\u00fc\u00dfen\n\n \n[**NAME_TITLE**] [**NAME_DOCTOR**] \t[**NAME_DOCTOR**] \t[**NAME_TITLE**] [**NAME_DOCTOR**]\n",
+    "option_a": "Dr. med.",
+    "option_b": "Dr. med.",
+    "resoning": "Both options identical. Must pick one. Probably A.",
+    "choice": "A",
+    "truth": "A",
+    "is_correct": true
+}

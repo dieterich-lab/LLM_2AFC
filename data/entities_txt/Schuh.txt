@@ -1,0 +1,74 @@
+[**LOCATION_HOSPITAL**]
+
+Klinik für Orthopädie und Traumatologie
+Klinikvorstand: [**NAME_TITLE**] [**NAME_DOCTOR**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**], [**LOCATION_STREET**], Tel.: [**CONTACT_PHONE**], Fax: [**CONTACT_FAX**]
+
+
+ 
+Herr
+[**NAME_TITLE**] [**NAME_DOCTOR**] [**LOCATION_STREET**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**]
+ 
+Ambulanzen im Fachbereich: [**CONTACT_PHONE**], Fax: [**CONTACT_FAX**]
+
+Bettenstationen/Fragen zur stat. Aufnahme: Telefon: [**CONTACT_PHONE**] Orthopädie
+Telefon: [**CONTACT_PHONE**] Traumatologie
+ 
+
+
+ 
+Zur Vorlage bei Ihrer/Ihrem Ärztin/Arzt
+
+[**NAME_TITLE**] [**NAME_PATIENT**], geb. am [**DATE_BIRTH**]
+[**LOCATION_STREET**]
+[**LOCATION_ZIP**] [**LOCATION_CITY**]
+ 
+
+
+
+Fallzahl: [**ID**]  SV: [**ID**]
+Besuch am [**DATE**]
+ 
+
+ 
+Ambulanter Befund
+
+
+Diagnosen: i.e.L Muskelfasereinriss M. gastrocnemius li
+ 
+
+
+[**LOCATION_CITY**], [**DATE**]/RAD
+ 
+
+
+Sehr geehrte Frau Kollegin, sehr geehrter Herr Kollege!
+
+Anamnese
+
+Pat. kommt zur klinischen Verlaufskontrolle.
+
+Klin. Befund
+PMDS unauffällig. Wade weich, keine Kompartmentsymptomatik, keine lokale Hämatomverfärbung, Zehenspitzengang weiterhin schmerzhaft, Achillessehne durchgängig tastbar, pMDS unauffällig.
+
+Therapie/Behandlungsplan
+
+Klinische Untersuchung.
+
+Ausführliche Aufklärung. Thromboseprophylaxe weiter wie eingeleitet bis zur seitengleichen Vollbelastung. Wiedervorstellung bei Bedarf.
+
+Zur Beachtung:
+Sollte sich Ihr Gesundheitszustand verschlechtern, suchen Sie bitte so rasch wie möglich wieder die Ambulanz für Orthopädie und Traumatologie auf.
+Dies gilt insbesondere in folgenden Fällen:
+Kopfverletzungen: Auftreten von Kopfschmerzen, Schwindel, Übelkeit, Erbrechen, Doppelbildern, Gehstörungen oder anderen neu aufgetretenen Auffälligkeiten.
+Gipsverbände: Schmerzen oder Schwellung.
+Wunden: Schmerzen, Fieber, Blutungen oder Sekretionen aus dem Wundbereich.
+
+Bei längerer Immobilisation/Bettruhe wird Abklärung einer Thromboseprohylaxe über den Hausarzt dringend empfohlen.
+Wir weisen darauf hin, dass Rauchen und Alkoholkonsum auch für die Wund- und Knochenheilung neg. Auswirkungen hat.
+
+
+Mit frundlichen kollegialen Grüßen
+
+[**NAME_TITLE**] [**NAME_DOCTOR**]
