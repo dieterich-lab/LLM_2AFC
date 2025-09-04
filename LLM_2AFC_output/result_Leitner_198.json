@@ -1,9 +1,9 @@
 {
     "letter": "[**NAME_TITLE**] [**NAME_PATIENT**], * [**DATE_BIRTH**], wohnhaft [**LOCATION_STREET**], [**LOCATION_ZIP**] [**LOCATION_CITY**]\n\n\nSehr geehrte Frau Kollegin,\n\nwir behandelten die o.g. Patientin vom [** ENTITY_SLOT **] bis zum [**DATE**] in unserer Klinik.\nDiagnose: Innen- und Au\u00dfenmeniskuskorbhenkelri\u00df mit Ruptur des vorederen Kreuzbandes und Elongation.  \nTherapie: Athroskopische Refixation des Innen- und Au\u00dfenmeniskus und Gl\u00e4ttung des vorderen Kreuzbandes am [**DATE**]\n\nDie Vorgeschichte d\u00fcrfen wir freundlicherweise als bekannt vorraussetzen.\n\nNach entsprechender Vorbereitung f\u00fchrten wir den o.g. Eingriff durch. Es ergaben sich im intra- und postoperativen Verlauf keine Komplikationen. Die Wunde heilte prim\u00e4r. Die krankengymnastische Mobilisierung erfolgte in einer Kniegelenksorthese mit Fixierung auf Ext/Flex 0-0-60\u00b0.\nMedikamente: Clexane, Ibuprofen, Nexium\nProceder: Weitere Mobilisation von Fr. [**NAME_TITLE**][**NAME_DOCTOR**] unter TB 20kg f\u00fcr 6 Wochen in der Orthese mit Limitierung der Flexion auf 60\u00b0 f\u00fcr 2 Wochen, dann 2 Wochen 90\u00b0, anschlie\u00dfend Freigabe. Med. Thromboseprophylaxe mit niedermol. Heparin bis zur schmerzfreien VB.\n\nMit freundlichen Gr\u00fc\u00dfen\n\n[**NAME_TITLE**] [**NAME_DOCTOR**]\nStations\u00e4rztin\n\n",
-    "option_a": "02.06.2019",
-    "option_b": "26.05.2019",
-    "resoning": "We need date of treatment. Likely earlier date? Both options. Probably 26.05.2019 earlier. I'll choose B.",
-    "choice": "B",
-    "truth": "B",
+    "option_a": "26.05.2019",
+    "option_b": "02.06.2019",
+    "resoning": "We need date of treatment. Likely earlier than procedure date? The procedure date is [**DATE**] earlier. The options are 26.05.2019 and 02.06.2019. Which fits? Probably 26.05.2019 earlier. So A.",
+    "choice": "A",
+    "truth": "A",
     "is_correct": true
 }

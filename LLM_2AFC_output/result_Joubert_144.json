@@ -1,9 +1,9 @@
 {
     "letter": "Hals-Nasen-Ohren-Klinik\nKlinikdirektor: [**NAME_TITLE**] [**NAME_DOCTOR**]\n[**LOCATION_ZIP**] [**LOCATION_CITY**], [**LOCATION_STREET**], Tel.: [** ENTITY_SLOT **], Fax: [**CONTACT_FAX**]\n \n \n\nHerrn\n[**NAME_TITLE**] [**NAME_PATIENT**] [**LOCATION_STREET**]\n[**LOCATION_ZIP**] [**LOCATION_CITY**]\n \n\n\nZur Vorlage bei Ihrer/Ihrem \u00c4rztin/Arzt\n\n\n\n[**NAME_TITLE**] [**NAME_PATIENT**]\nGeboren am: [**DATE_BIRTH**]\n[**LOCATION_STREET**]\n[**LOCATION_ZIP**] [**LOCATION_CITY**]\n \nAllgemeine Ambulanz\n\nAmbulant am [**DATE**]\nFallnummer:\t[**ID**]\n\nVersicherung: [**LOCATION_ORGANIZATION**]\n\n\nBefund\n \nangelegt am [**DATE**] gedruckt am [**DATE**]\n \n\nAnamnese: Seit 10 Tagen grippaler Infekt ohne Fieber, seit 3 Tagen zunehmende stechende\nKopfschmerzen und Druckgef\u00fchl frontal, begleitend Husten, Niesanf\u00e4lle, Medikation: seit\n10 Tagen Nasevin NT, Paracetmol bei Bedarf Allergien: Pollen\n\nRechtes Ohr: kein Tragusdruckschmerz, kein Mastoisklopfschmerz, Geh\u00f6rgang bland, Tf unauff., Vasalva pos.\n\nlinkes Ohr: \nkein Tragusdruckschmerz, kein Mastoisklopfschmerz, Geh\u00f6rgang bland, Tf unauff., Vassalva pos.\n\nNase: leicht SH R\u00f6tung \n\nNasenrachen: leicht ger\u00f6tet \n\nMundrachen: m\u00e4sig ger\u00f6tet\n\nKehlkopf: soweit bei W\u00fcrgereiz einsahbar unauff\u00e4llig\n\nSonstiges: Lnn submandibul\u00e4r, nuchal und pariaurikul\u00e4r unauf\u00e4llig\n\n\nDiagnose(n)\nSinusitis frontalis\n\nEmpfohlene  Untersuchung{en)\nEmpf. t\u00e4glich HE u. lnhal. in unserer Ambulanz  sowie Vibramycin 100 heute 2x1, dann  weiter 1x1, Otrivin Tropfen  3xtgl. in die  Nase, Antiphlogistika bei Bedarf. Eine Ko.  wurde  f\u00fcr  morgen  f\u00fcr neuerlich HE u.  Inhalation vereinbart.\n\n\n\n",
-    "option_a": "0816/333-13283",
-    "option_b": "015639825979",
-    "resoning": "We need phone number. In German clinics, phone numbers start with 0. Option A starts with 0816, B starts with 0156. Likely landline 0816. So A.",
-    "choice": "A",
-    "truth": "A",
+    "option_a": "015639825979",
+    "option_b": "0816/333-13283",
+    "resoning": "Need phone number. In German clinic, phone likely starts with 0 and area code. Option B has 0816/333-13283 looks like German number. Option A is 015639825979 is mobile. Likely office phone. So B.",
+    "choice": "B",
+    "truth": "B",
     "is_correct": true
 }

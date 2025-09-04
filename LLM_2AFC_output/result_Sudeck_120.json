@@ -1,9 +1,9 @@
 {
     "letter": "[**NAME_TITLE**] [**NAME_PATIENT**] *[**DATE_BIRTH**]\nPIZ: [**ID**] \tVorgangs-Nr. [**ID**]\n\n\nSehr geehrte Frau Kollegin [** ENTITY_SLOT **], anbei erhalten Sie Ihren Befund.\n\nUntersuchungsindikation:\nLaterale Claviculafraktur rechts nach Reitunfall.\n \n\nErbetene und durchgef\u00fchrte Untersuchung:\nAcromio-Claviculargelenk vom [**DATE**]\n\n\nDigitale Aufnahmetechnik\n\nMethodik:\nAnfertigung von vergleichenden Aufnahmen beider Schultergelenke unter Belastung mit 10 kg.\n\nBefund:\nDehiszenz im Frakturspalt bei lateraler Claviculafraktur um Schaftbreite. Eine begleitende ligament\u00e4re Verletzung ist bei vermehrter Dehiszenz Clavicula/ Coracoid von 7 mm linksseitig und von 21 mm rechtsseitig anzunehmen.\n\nBildverbleib: Digitales Archiv\n \nQualit\u00e4tssicherungskonzept:\nIm Rahmen der Qualit\u00e4tssicherung wurde diese Untersuchung von zwei Fach\u00e4rztInnen f\u00fcr Radiologie beurteilt.\n\nMit freundlichen koll. Gr\u00fc\u00dfen\n\n \n[**NAME_TITLE**] [**NAME_DOCTOR**] \t[**NAME_DOCTOR**] \t[**NAME_TITLE**] [**NAME_DOCTOR**]\n",
-    "option_a": "Krugjohann",
-    "option_b": "Sudeck",
-    "resoning": "We need to fill ENTITY_SLOT: likely a colleague's name. Options: Krugjohann or Sudeck. Which is more plausible? In German, \"Frau Kollegin\" then name. Sudeck is a German surname. Krugjohann seems less common. I'd pick Sudeck.",
-    "choice": "B",
-    "truth": "B",
+    "option_a": "Sudeck",
+    "option_b": "Krugjohann",
+    "resoning": "We need to fill ENTITY_SLOT: likely a colleague's name. Options: Sudeck or Krugjohann. Which is more plausible? In German, \"Frau Kollegin\" then name. Both could be last names. Which is more common? Krugjohann seems unusual. Sudeck is a known German surname. I'd pick A.",
+    "choice": "A",
+    "truth": "A",
     "is_correct": true
 }

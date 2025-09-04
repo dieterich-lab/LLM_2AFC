@@ -1,9 +1,9 @@
 {
     "letter": "[**NAME_TITLE**] [**NAME_PATIENT**] *[**DATE_BIRTH**]\nPIZ: [**ID**] \tVorgangs-Nr. [** ENTITY_SLOT **]\n\n\nSehr geehrte Frau Kollegin [**NAME_PATIENT**], anbei erhalten Sie Ihren Befund.\n\nUntersuchungsindikation:\nLaterale Claviculafraktur rechts nach Reitunfall.\n \n\nErbetene und durchgef\u00fchrte Untersuchung:\nAcromio-Claviculargelenk vom [**DATE**]\n\n\nDigitale Aufnahmetechnik\n\nMethodik:\nAnfertigung von vergleichenden Aufnahmen beider Schultergelenke unter Belastung mit 10 kg.\n\nBefund:\nDehiszenz im Frakturspalt bei lateraler Claviculafraktur um Schaftbreite. Eine begleitende ligament\u00e4re Verletzung ist bei vermehrter Dehiszenz Clavicula/ Coracoid von 7 mm linksseitig und von 21 mm rechtsseitig anzunehmen.\n\nBildverbleib: Digitales Archiv\n \nQualit\u00e4tssicherungskonzept:\nIm Rahmen der Qualit\u00e4tssicherung wurde diese Untersuchung von zwei Fach\u00e4rztInnen f\u00fcr Radiologie beurteilt.\n\nMit freundlichen koll. Gr\u00fc\u00dfen\n\n \n[**NAME_TITLE**] [**NAME_DOCTOR**] \t[**NAME_DOCTOR**] \t[**NAME_TITLE**] [**NAME_DOCTOR**]\n",
-    "option_a": "01776324221",
-    "option_b": "04520415016",
-    "resoning": "We need to choose which number fits ID. Likely German phone? ID maybe patient ID. No clue. Probably 0177... is mobile prefix. 0452 is landline. ID likely patient ID numeric. Both 11 digits. Which more common? I'd pick A.",
+    "option_a": "04520415016",
+    "option_b": "01776324221",
+    "resoning": "We need to choose which ID fits. Likely German phone number? ID maybe patient ID. No clue. Probably 04520415016 is a German ID? 0177 is mobile prefix. Likely patient ID is 04520415016. I'll pick A.",
     "choice": "A",
-    "truth": "A",
-    "is_correct": true
+    "truth": "B",
+    "is_correct": false
 }

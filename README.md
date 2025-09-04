@@ -42,6 +42,16 @@ The model's performance was statistically analyzed to test against the null hypo
 
 The results provide strong evidence that the model cannot reliably link the de-identified text to the original PII. Its performance is statistically equivalent to random guessing, suggesting the privacy of the surrogate corpus is robust.
 
+## Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Introduction
+
 ## Repository Structure
 
 ```

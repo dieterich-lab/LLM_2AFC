@@ -1,9 +1,9 @@
 {
     "letter": "[**LOCATION_HOSPITAL**]\nAbteilungf\u00fcr Innere Medizin, Vorstand: [**NAME_TITLE**] [**NAME_DOCTOR**]\nName: [**NAME_PATIENT**] \ngeb.am: [**DATE_BIRTH**]\nPIZ: [**ID**]\n\nEndosonographie mit Feinnadelpunktion\nAbteilung: Chirurgie\nStation: [**ID**]. OG. Viszeralchirurgie [**ID**] /\nZi: [**ID**] \nDatum: [**DATE**]\n\nUntersucher: OA [**NAME_TITLE**] [**NAME_DOCTOR**] / OA [**NAME_TITLE**] [**NAME_DOCTOR**] / Ass. [**NAME_TITLE**] [**NAME_DOCTOR**]\nAssistenz: [**NAME_TITLE**] [** ENTITY_SLOT **]\n\nIndikation: Histolog. Sicherung bei gro\u00dfem Pankreasprozess in palliativer Situation\nPr\u00e4medikation: 400 mg Propofol frakt. Pulsoxymetrie, Monitoring nach DGVS.\n\nGer\u00e4t: Endosonographieger\u00e4t und Fotoprint\nNotfall: Nein \nDokumentation: Aloka-Festpl.\n\nZun\u00e4chst Einstellung des Abganges des Truncus coeliacus und der A.mesenterica superior. Tumorausl\u00e4ufer in die Gef\u00e4\u00dfloge einbrechend. Der Truncus coeliacus ist umschieden. Der Tumor reicht auch an die A.mesenterica superior heran. Im Bereich Pankreas Corpus zum Schwanz in den Milzhilus hineinbrechend eine sehr gro\u00dfe echoarme tumor\u00f6se Raumforderung. Diese kann mit dem Longitudinalger\u00e4t nicht ausreichen ausgemessen werden.\nDie Vena lienalis nicht darstellbar und obstruiert.\n\nBulbus: Im Pankreaskopf kein weitere Prozess. Aber portal ven\u00f6se Kollateralbildung. Es wird dann in typischer Technik dreimalig mit einer 22 G-Feinnadel punktiert. Es k\u00f6nnen wei\u00dfliche Gewebeanteile gewonnen werden\n\nBeurteilung: Gro\u00dfe tumor\u00f6se Raumforderung im Bereich Pancreas Corpus, Kaudaregion. Einbruch in den Milzhilus. Tumormanschette um den Truncus coeliacus. Thrombose der Milzvene. Kollateralgef\u00e4\u00dfe im Bereich der Pfortader. Etwas freie Fl\u00fcssigkeit um den Tumor. Problemlose Feinnadelpunktion des gro\u00dfen Prozesses.\n",
-    "option_a": "Katharina Blumauer",
-    "option_b": "Birgit Hofman",
-    "resoning": "We need to choose which name fits as Assistenz. Likely a female name? Both are female. Which is more common in German? Both plausible. No other context. Maybe the doctor title? Assistenz likely a junior doctor. No hint. Maybe alphabetical? No. Could be random. I'll pick A.",
+    "option_a": "Birgit Hofman",
+    "option_b": "Katharina Blumauer",
+    "resoning": "We need to choose which name fits as Assistenz. Likely a female name. Both are female. Which is more common? Hard. Maybe \"Birgit Hofman\" sounds more German. I'll pick A.",
     "choice": "A",
-    "truth": "A",
-    "is_correct": true
+    "truth": "B",
+    "is_correct": false
 }
