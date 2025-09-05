@@ -1,9 +1,9 @@
 {
     "letter": "[**NAME_PATIENT**], * [**DATE_BIRTH**], wohnhaft in [**LOCATION_ZIP**] [**LOCATION_CITY**]\n\nArztbrief\n \n\n[**DATE**]\nDiagnosen\n\nMelanom Stadium IV\n[**DATE**] Prim\u00e4rtumor: Skapul\u00e4r links (TD 3,65 mm, T3aN0M1c;HNr.:[**ID**])\n[**DATE**] Sentinel node Exstirpation axill\u00e4r links ([**ID**]: tumorfrei)\n[**DATE**] Leberfiliae und Lungenfilia (linker Oberlappen)\nPsychose (ED [**DATE**])\nZ. n. Sinusbradykardie [**DATE**]\n\nAktuell: 4. Zyklus Paclitaxel und Carboplatin\n\nBisherige Therapie:\n[**DATE**]- [** ENTITY_SLOT **] adjuvante Therapie mit Roferon (9 Mio IE./Woche; ) (C78.8)\n\nTherapieempfehlung\n\nMagnosolv 1x1\nPantoloc 40mg 1-0-1\nAbilify 10 mg 1-0-0\nTramadol bis zu 3x20 Tropfen bei Schmerzen\nMetoklopramid 15 Tropfen zusammen mit Tramal einnehmen\n \n\nZusammenfassung\n\nDie station\u00e4re Aufnahme Ihrer Patientin erfolgte zur Fortf\u00fchrung der Chemotherapie mit Taxol und Carboplatin (4.Zyklus) bei bekannter Grunderkrankung.\nBeim Aufnahmestatus zeigte sich klinisch kein Hinweis auf einen Fortschritt der Erkrankung.\nDie Pat.  erhielt am [**DATE**] Paclitaxel 200 mg/m\u00b2KOF (Gesamtdosis: 382,5mg) \u00fcber 5 Stunden und Carboplatin (AUC 5) 590 mg \u00fcber 2 Stunden mit der entsprechenden Begleitmedikation. Die Therapie wurde gut vertragen.\nDie nach der Chemotherapie aufgetretene Leukozytose war, nachdem sich klinisch keine Infektzeichen zeigten, in erster Linie kortisonbedingt.\n\nWir konnten die Pat. am [**DATE**] in gutem AZ  nach Hause entlassen.\n\nRelevante Befunde\n\nDermatologischer Aufnahmestatus: : Hautoberfl\u00e4che normal, Hautturgor normal, Pigmentierung gering, diffuse Alopezie der Kopfhaut. Am K\u00f6rperstamm und an den Extremit\u00e4ten MNZN. Abdominell und dorsal einige subkutane Knoten (bekannte Lipome).  \n\ngez. [**NAME_TITLE**] [**NAME_DOCTOR**]\n",
-    "option_a": "05/2020",
-    "option_b": "05.2020",
-    "resoning": "We need fill [** ENTITY_SLOT **] adjuvante Therapie with Roferon. Likely date format. Options: A) 05/2020 B) 05.2020. German uses dot. So B.",
-    "choice": "B",
-    "truth": "A",
+    "option_a": "05.2020",
+    "option_b": "05/2020",
+    "resoning": "We need fill ENTITY_SLOT: adjuvante Therapie with Roferon (9 Mio IE./Woche; ) (C78.8). Likely a date format. Options: A) 05.2020 B) 05/2020. German uses dot. So A.",
+    "choice": "A",
+    "truth": "B",
     "is_correct": false
 }

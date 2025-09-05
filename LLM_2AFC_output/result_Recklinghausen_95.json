@@ -1,9 +1,9 @@
 {
     "letter": "AMBULANZKARTE - Unfallchirurgie\n \n[**NAME_PATIENT**] * [**DATE_BIRTH**], Fallnummer: [**ID**]\n\n[** ENTITY_SLOT **] \tAmbulanter Befund\n\nAnamnese:\nIm Jahr [**DATE**] hat sich der Patient bei einem Motorradunfall in den [**LOCATION_COUNTRY**] eine laterale Claviculafraktur der rechten Schulter zugezogen, diese wurde umst\u00e4ndehalber konservativ behandelt. \nPatient kommt wegen Fragestellung der Belastbarkeit der rechten Schulter.\n\nDiagnosen:\nSt.p. Fract. claviculae dext. ossis. sanata\n\nTherapie:\nUnters., Aufkl\u00e4rung, R\u00f6ntgen, konservativ, soweit keine Einschr\u00e4nkung von Seiten der Belastung gegeben.\nKlinischer Befund:\nBeweglichkeit aktiv/passiv soweit frei, vermehrte Kallusformationen im\nBereich der lateralen Clavicula tastbar, die Fraktur klinisch\nkonsolidiert. Soweit keine Druckchmerzhaftigkeit \u00fcber dem ehemaligen Frakturbereich wie auch das AC-Gelenk soweit frei, die Rotatorenmanschettentests negativ, Bizepssehnentest negativ, horizontaler Abduktionstest diskret positiv. Motorik/Durchblutung/Sensibilit\u00e4t peripher oB.\n\nR\u00f6ntgen, s. Anl.\n\nZur Beachtung!\n \nKrankmeldung durch Hausarzt\n \nVerb\u00e4nde niemals selbst wechseln! Bei Blutungen, Schmerzen oder Fieber sofort die Unfallchirurgische Ambulanz aufsuchen! Vorsicht bei Gipsverb\u00e4nden - wenn Schmerzen, Gef\u00fchllosigkeit oder Schwellungen auftreten, die Unf.-Chir. Klinik aufsuchen! F\u00fcr die aus der Nichtbefolgung dieser Vorschrift m\u00f6glicherweise eintretenden Folgen, lehnt die Klinik jede Verantwortung ab. \n\nBanddiktat - H\u00f6rfehler m\u00f6glich!\n\n\n\n  \nRadiologischer Befund\nPatient: [**NAME_PATIENT**] * [**DATE**], Fallnummer: [**ID**]\n\n\n\nSchulter re. ap. axial/Y-Aufnahme: Z.n. lateraler Claviculafraktur, im axialen R\u00f6ntgen Verschiebung um Schaftbreite nach ventral, die Fraktur soweit kn\u00f6chern gut \u00fcberbaut, das AC-Gelenk soweit kongruent. Kontrolle am:\nKontrolle bei Bedarf. (SCHULTER-Ambulanzkarte) Ambulanzkarte Befund wurde der/m Patientin(en) geschickt! \n\nUntersuchung durch: [**NAME_TITLE**] [**NAME_DOCTOR**] \n\nGeschrieben von [**NAME_DOCTOR**]\n\nBefund elektronisch an [**LOCATION_HOSPITAL**] versendet!\n",
-    "option_a": "14.03.2022",
-    "option_b": "07.03.2022",
-    "resoning": "We need date for ENTITY_SLOT: likely date of examination? The letter has date of accident earlier. The slot likely date of ambulanter Befund. Which date fits? Options 14.03.2022 or 07.03.2022. Accident year unspecified. Probably 07.03.2022 earlier? Hard. Choose 14.03.2022? I'll pick A.",
+    "option_a": "07.03.2022",
+    "option_b": "14.03.2022",
+    "resoning": "We need date for ENTITY_SLOT. Likely date of ambulanter Befund. Probably date of visit. Options 07.03.2022 or 14.03.2022. Which fits? No other clues. Maybe 07.03 earlier? I'd pick 07.03.",
     "choice": "A",
-    "truth": "B",
-    "is_correct": false
+    "truth": "A",
+    "is_correct": true
 }

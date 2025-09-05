@@ -1,9 +1,9 @@
 {
     "letter": "[**LOCATION_HOSPITAL**]\nKlinik f\u00fcr Chirurgie\nKlinikvorstand: [**NAME_TITLE**] [**NAME_DOCTOR**]\n \n[**LOCATION_ZIP**] [**LOCATION_CITY**]\n[**LOCATION_STREET**],\nTelefon [**CONTACT_PHONE**]-DW, Fax [**CONTACT_FAX**]\n \n\nAmbulanz f\u00fcr Endoskopie\nLeitender Oberarzt: [**NAME_TITLE**] [**NAME_DOCTOR**]\n \n\nZur Vorlage bei Ihrer/Ihrem \u00c4rztin/Arzt\n\n\n\n[**NAME_PATIENT**]\n[**LOCATION_STREET**] \n[** ENTITY_SLOT **] [**LOCATION_CITY**]\n\n\ngeboren am:  [**DATE_BIRTH**]\nFallzahl: \t[**ID**]\nSV Nr.: \t[**ID**]\n \n\n\nEndoskopischer Befund vom [**DATE**]\nKoloskopie\n\n \nPr\u00e4medikation: 23ml Propofel 1%. O2-Gabe und Monitoring (Herzfrequenz und S\u00e4ttigung). \n\nUntersuchungsmodus: Es handelt sich um eine elektive Untersuchung.\n\nIndikationen: VU-Koloskopie.\n\nColon: Vom rektosigmoidalen \u00dcbergang bis re Flexur finden sich mehrere Divertikel, allesamt bland und reizlos, jedoch viele mit Stuhl impaktiert, wie auch der gesamte Kolonrahmen immer wieder voll wandhaftendem Stuhl sich pr\u00e4sentiert, soda\u00df die Beurteilbarkeit sehr eingeschr\u00e4nkt ist.\nBei 60 cm ab ano findet sich ein makr. JNET Typ I, welcher mit der Radial Jaw Zange abgetragen wird und die Abtragungsstelle mit einem H\u00e4meclip gesichert wird. Ab der rechten Flexur bis Coecalpol keine Beurteilbarkeit gegeben. Beim Zur\u00fcckziehen kommen H\u00e4morrhoiden 1\u00b0 zur Darstellung.\n\nDiagnosen - Colon: H\u00e4morrhodien 1\u00b0, Divertikulose, Dickdarmpolyp bei 55 cm ab ano.\n\nProbeexzision: Glas 1: 55 cm ab ano, Polyp, Adenom, CA? \n\nKontrollen: Wiedervorstellung abh\u00e4ngig vom histologischen Befund.\n\nTherapie-Empfehlung: Ausreichend Fl\u00fcssigkeitszufuhr bis zu 1,5 Ud, zur Stuhlsorge bei Bedarf L\u00e4volac 3x1/EL oder Molaxole, oder Flohsamen ins M\u00fcsli. Ern\u00e4hrungsbrosch\u00fcre wird mitgegeben.\n\nHistologie: Histologie offen.\n\n",
-    "option_a": "23795",
-    "option_b": "A-3337",
-    "resoning": "We need to fill [**ENTITY_SLOT**] which is likely a postal code? The letter has [**LOCATION_ZIP**] earlier. The slot is after street and before city. So format: street, [ENTITY_SLOT] [LOCATION_CITY]. So ENTITY_SLOT likely ZIP code. Options: 23795 or A-3337. German postal codes are 5 digits. So 23795 fits. So answer A.",
-    "choice": "A",
-    "truth": "B",
+    "option_a": "A-3337",
+    "option_b": "23795",
+    "resoning": "We need to fill [**ENTITY_SLOT**] which is likely a postal code? The letter has [**LOCATION_ZIP**] earlier. The slot is after street and before city. So it's a postal code. Options: A) A-3337 (looks like a code with letter) B) 23795 (numeric). German postal codes are 5 digits numeric. So B.",
+    "choice": "B",
+    "truth": "A",
     "is_correct": false
 }
